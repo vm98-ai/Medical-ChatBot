@@ -4,4 +4,6 @@ pinecone-client
 langchain==0.3.21
 flask
 pypdf
+langchain-pinecone
+langchain-huggingface
 -e
