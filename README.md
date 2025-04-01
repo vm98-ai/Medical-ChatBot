@@ -13,13 +13,13 @@ conda activate chatbot_med
 pip install -r requirements.txt
 ```
 
-### Download the LLama-2 Weights
+#### Download the LLama-2 Weights
 
 #### Download llama-2-7b-chat.ggmlv3.q4_0.bin from hugging face.
 
-### Create a Pinecone Account and get your API_KEY and store it as environment variable.
+#### Create a Pinecone Account and get your API_KEY and store it as environment variable.
 
-### Running the Chatbot
+#### Running the Chatbot
 
 ```bash
 python store_index.py
